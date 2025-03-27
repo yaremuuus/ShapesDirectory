@@ -91,4 +91,5 @@ The project demonstrates:
 - **Complex interactions** between visual objects  
 - **Dynamic UI updates** based on user actions
 
-## **How it looks:**
+## **How it looks:**  
+![](demo.gif)
